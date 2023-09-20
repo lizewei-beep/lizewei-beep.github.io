@@ -12,7 +12,7 @@ blogurl = "https://www.luogu.com.cn/blog/_post/"
 solutionurl = "https://www.luogu.com.cn/problem/solution/P"
 #题号范围
 minn = 1000
-maxn = 1051
+maxn = 1049
 
 
 def get_html(url):
